@@ -9,7 +9,6 @@
 - [Note](#note)
 - [Running](#running)
 <br>
-<br>
 
 ## 🧐 Requirements <a name = "requirements"></a>
 
@@ -17,13 +16,11 @@
 2. AIOHttp - ```pip install aiohttp```
 3. Pymongo - ```pip install pymongo[srv]```
 <br>
-<br>
 
 ## 🏁 Note <a name = "note"></a>
 
 Replace MOTOR_URI with your own MongoDB URI
 
-<br>
 <br>
 
 ## 🔧 Running <a name = "running"></a>
